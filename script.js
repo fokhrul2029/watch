@@ -18,7 +18,7 @@ function Watch(){
         hr ; 
     }
     if( hr < 10 ){
-        hr = "0"+ hr ; 
+        hr ; 
     }else{
         hr 
     }
